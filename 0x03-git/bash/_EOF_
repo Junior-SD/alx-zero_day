@@ -1,0 +1,13 @@
+
+ls
+cd ..
+clear
+
+>#!/bin/bash
+>echo "School"
+>_EOF_
+
+
+
+
+
